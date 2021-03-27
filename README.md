@@ -54,9 +54,8 @@ The file structure is as follows:
 2. assets files -> top_5.p, top_10.p, top_20.p files
 3. Recommendations_with_IBM.html -> comple version notebook in html file 
 4. Recommendations_with_IBM.ipynb -> complete version notebook 
-5. Recommendations_with_IBM.test -> complete version notebook test
-6. project_test.py -> test file  
-7. user_item_matrix.p -> user matrix file
+5. project_test.py -> test file  
+6. user_item_matrix.p -> user matrix file
 
 ## Submission Instructions
 
